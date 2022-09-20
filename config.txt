@@ -23,12 +23,5 @@
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "天亮了，美妙的一天又开端了，起床吧，呼吸清爽，拥抱阳光；浅笑吧，高兴心境，高兴一天。早上好，愿你有个好意情！",
 # 金句英文
-"note_en": "If by life you were deceived,
-Don't be dismal,don't be wild!
-In the day of grief,be mild:
-Merry days will come,believe.
-Heart is living in tomorrow;
-Present is dejected here:
-In a moment,passes sorrow;
-That which passes will be dear."
+"note_en": "I love you, my dear son."
 }
